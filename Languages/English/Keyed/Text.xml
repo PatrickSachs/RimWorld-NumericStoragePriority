@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Lilith_NumericStoragePriority_SettingsCategory>Numeric Storage Priorities</Lilith_NumericStoragePriority_SettingsCategory>
+  <Lilith_NumericStoragePriority_DisableNames>Disable priority names?</Lilith_NumericStoragePriority_DisableNames>
+  <Lilith_NumericStoragePriority_DisableNames_Tooltip>If enabled, priorities will always be displayed using their numeric value, even if a matching preset exists.</Lilith_NumericStoragePriority_DisableNames_Tooltip>
+  <Lilith_NumericStoragePriority_DisableInput>Disable priority input?</Lilith_NumericStoragePriority_DisableInput>
+  <Lilith_NumericStoragePriority_DisableInput_Tooltip>If enabled, the priority input will be disabled only allowing you to use presets, similar to vanilla.</Lilith_NumericStoragePriority_DisableInput_Tooltip>
+  <Lilith_NumericStoragePriority_Sort>Sort priority presets by</Lilith_NumericStoragePriority_Sort>
+  <Lilith_NumericStoragePriority_CustomNames_Add>Add a preset</Lilith_NumericStoragePriority_CustomNames_Add>
+  <Lilith_NumericStoragePriority_CustomNames_DefaultName>New preset</Lilith_NumericStoragePriority_CustomNames_DefaultName>
+  <Lilith_NumericStoragePriority_CustomNames_Search>Search presets</Lilith_NumericStoragePriority_CustomNames_Search>
+  <Lilith_NumericStoragePriority_CustomNames_Priority>Preset priority</Lilith_NumericStoragePriority_CustomNames_Priority>
+  <Lilith_NumericStoragePriority_CustomNames_Name>Preset name</Lilith_NumericStoragePriority_CustomNames_Name>
+  <Lilith_NumericStoragePriority_CustomNames_Confirm>Confirm and override preset changes</Lilith_NumericStoragePriority_CustomNames_Confirm>
+  <Lilith_NumericStoragePriority_CustomNames_Delete>Delete preset</Lilith_NumericStoragePriority_CustomNames_Delete>
+</LanguageData>
